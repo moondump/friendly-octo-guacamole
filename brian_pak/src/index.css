@@ -1,0 +1,23 @@
+h1{
+  padding: 2rem;
+}
+
+h2{
+  text-align: center;
+}
+
+.card{
+  width: 50%;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.card:hover {
+  cursor: pointer;  
+}
+
+.list-group{
+  width: 50%;
+  margin: 0 auto;
+  text-align: center;
+}
